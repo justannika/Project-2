@@ -4,15 +4,51 @@ padding: 0;
 box-sizing: border-box;
 font-family: 'Poppins', sans-serif;
 }
+body{
+    display: flex;
+    padding: 0 10px;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #343f4f;
 
+}
 .wrapper{
     max-width: 1200px;
 }
+
+.wrapper i{
+    height: 46px;
+    width: 46px;
+    text-align: center;
+    list-style: none;
+    background: #fff;
+}
 .wrapper .carousel { 
+    font-size: 0px;
+    cursor: pointer;
     white-space: nowrap;
 }
 .carousel img {
     height: 340px;
     object-fit: cover;
+    margin-left: 14px;
+    margin-right: 14px;
     width: calc(100% / 3);
+}
+.carousel img: first-child{
+    margin-left: 0px;
+
+}
+
+@media screen and (max-width: 900px) {
+    .carousel img {
+        width: calc(100% / 2);
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .carousel img {
+        width: 100% ;
+    }
 }
