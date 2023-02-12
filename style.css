@@ -109,6 +109,31 @@ body{
     color: white
 }
 
+.slide-img:hover{
+    opacity: 1;
+    transform: scale(1);
+}
+
+.img-1{
+    background-image: url(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXRleUJVdTdtd0l0WTFiaUJSYzBCT3RxYXVnUXxBQ3Jtc0trc3doMHlSeDRxdWxhazVJN1V2cFp2VXBrLXFoLWl1alVpNG1HU3N4czBIeDVIYi1xSUh2NXplN2hGSzByZHlFa3dtb3plQzFiN1JLaEZOaEtEYXF0V3NNaVNHdk1Db2JMMFM0aEY0Umc0am00VllFWQ&q=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F2521619%2Fpexels-photo-2521619.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-troy-squillaci-2521619.jpg%26fm%3Djpg&v=cmlkB3oaKOQ);
+}
+
+.img-2{
+    background-image: url(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXRleUJVdTdtd0l0WTFiaUJSYzBCT3RxYXVnUXxBQ3Jtc0trc3doMHlSeDRxdWxhazVJN1V2cFp2VXBrLXFoLWl1alVpNG1HU3N4czBIeDVIYi1xSUh2NXplN2hGSzByZHlFa3dtb3plQzFiN1JLaEZOaEtEYXF0V3NNaVNHdk1Db2JMMFM0aEY0Umc0am00VllFWQ&q=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F2521619%2Fpexels-photo-2521619.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-troy-squillaci-2521619.jpg%26fm%3Djpg&v=cmlkB3oaKOQ);
+}
+
+.img-3{
+    background-image: url(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXRleUJVdTdtd0l0WTFiaUJSYzBCT3RxYXVnUXxBQ3Jtc0trc3doMHlSeDRxdWxhazVJN1V2cFp2VXBrLXFoLWl1alVpNG1HU3N4czBIeDVIYi1xSUh2NXplN2hGSzByZHlFa3dtb3plQzFiN1JLaEZOaEtEYXF0V3NNaVNHdk1Db2JMMFM0aEY0Umc0am00VllFWQ&q=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F2521619%2Fpexels-photo-2521619.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-troy-squillaci-2521619.jpg%26fm%3Djpg&v=cmlkB3oaKOQ);
+}
+
+.img-4{
+    background-image: url(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXRleUJVdTdtd0l0WTFiaUJSYzBCT3RxYXVnUXxBQ3Jtc0trc3doMHlSeDRxdWxhazVJN1V2cFp2VXBrLXFoLWl1alVpNG1HU3N4czBIeDVIYi1xSUh2NXplN2hGSzByZHlFa3dtb3plQzFiN1JLaEZOaEtEYXF0V3NNaVNHdk1Db2JMMFM0aEY0Umc0am00VllFWQ&q=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F2521619%2Fpexels-photo-2521619.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-troy-squillaci-2521619.jpg%26fm%3Djpg&v=cmlkB3oaKOQ);
+}
+
+.img-5{
+    background-image: url(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXRleUJVdTdtd0l0WTFiaUJSYzBCT3RxYXVnUXxBQ3Jtc0trc3doMHlSeDRxdWxhazVJN1V2cFp2VXBrLXFoLWl1alVpNG1HU3N4czBIeDVIYi1xSUh2NXplN2hGSzByZHlFa3dtb3plQzFiN1JLaEZOaEtEYXF0V3NNaVNHdk1Db2JMMFM0aEY0Umc0am00VllFWQ&q=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F2521619%2Fpexels-photo-2521619.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-troy-squillaci-2521619.jpg%26fm%3Djpg&v=cmlkB3oaKOQ);
+}
+
 @media(max-width: 1600px){
     .container{
         width: 100%;
